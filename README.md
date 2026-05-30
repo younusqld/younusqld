@@ -69,3 +69,13 @@ Chatbot project built to learn Natural Language Processing and API integration.
 ## 📫 Connect With Me
 
 GitHub: https://github.com/younusqld
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=younusqld&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=younusqld&layout=compact&theme=tokyonight)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
