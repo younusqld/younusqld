@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Younus
 
-<!--
-**younusqld/younusqld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 BTech Information Technology Student
+* 🤖 Machine Learning Enthusiast
+* 🌐 Full Stack Developer
+* 🛠️ Robotics and Automation Diploma Holder
+* 📚 Currently learning NLP, AI, and Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Python
+* Java
+* C
+* Assembly
+* Prolog
+
+### Web Development
+
+* React.js
+* Flask
+* REST APIs
+* HTML
+* CSS
+* JavaScript
+
+### Machine Learning
+
+* Scikit-learn
+* Random Forest
+* Data Preprocessing
+* Feature Engineering
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Raspberry Pi
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Personalized Medicine Recommendation System
+
+Machine learning-based healthcare recommendation system using React, Flask, and Random Forest for disease prediction and medicine recommendation.
+
+### 🤖 Autonomous Self-Driving Delivery Robot
+
+Image-processing based delivery robot capable of autonomous navigation.
+
+### 💬 NLP Chatbot
+
+Chatbot project built to learn Natural Language Processing and API integration.
+
+---
+
+## 🌱 Currently Learning
+
+* Natural Language Processing (NLP)
+* Machine Learning
+* Full Stack Development
+* AI Applications
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/younusqld
