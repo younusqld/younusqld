@@ -17,8 +17,6 @@
 
 🧠 Exploring Machine Learning and NLP
 
-🔬 Interested in AI-powered Healthcare Solutions
-
 🚀 Always learning and building new projects
 
 ---
@@ -47,15 +45,6 @@
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=younusqld&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younusqld&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -88,14 +77,8 @@
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=younusqld&theme=tokyo-night)
-
----
-
 ## 📫 Connect With Me
 
 💼 GitHub: https://github.com/younusqld
 
-⭐ If you like my projects, feel free to star them!
+📫 LinkedIn:www.linkedin.com/in/younusqld
